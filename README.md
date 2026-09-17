@@ -16,23 +16,11 @@ Protótipo funcional de campo para telemetria de microclima (temperatura e umida
 
 ## 2. Canal de Telemetria
 * **Plataforma:** ThingSpeak
-* **Link Público do Canal:** [Visualizar Canal ao Vivo](COLE_O_LINK_DO_THINGSPEAK_AQUI)
+* **Link Público do Canal:** [Visualizar Canal ao Vivo](https://thingspeak.mathworks.com/channels/3493443)
 
 ---
 
-## 3. Registro Fotográfico do Artefato
-
-### Montagem Eletrônica Interna
-> *[Insira aqui a foto mostrando o circuito, conexões e a pinagem visível do ESP32-C3 e do DHT11]*
-> `![Circuito Interno](./images/circuito_interno.jpg)`
-
-### Protótipo Final (Upcycling Enclosure)
-> *[Insira aqui a foto do dispositivo fechado dentro da embalagem reaproveitada, destacando a ergonomia e as aberturas de aeração]*
-> `![Prototipo Final](./images/prototipo_fechado.jpg)`
-
----
-
-## 4. Instruções e Código-Fonte
+## 3. Instruções e Código-Fonte
 
 ### Estrutura de Arquivos do Repositório
 * `main.ino`: Código principal do firmware (ESP32-C3).
